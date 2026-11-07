@@ -13,7 +13,7 @@ Dokumentasi dan rangkuman pembelajaran dari kegiatan **Workshop Day 1: Building 
 
 ---
 
-## 📌 Deskripsi & Tujuan Repository
+## Deskripsi & Tujuan Repository
 
 ### Deskripsi
 Repository ini berisi dokumentasi alur belajar (*learning journey*) pada kegiatan workshop *Building with AI, Managing Change with GitHub*. Di dalamnya mencakup rangkuman materi Prompt Engineering, perintah dasar Git/GitHub, mekanisme konfigurasinya, serta implementasi proyek *Student Task Planner* yang dikembangkan menggunakan AI.
@@ -25,7 +25,7 @@ Repository ini berisi dokumentasi alur belajar (*learning journey*) pada kegiata
 
 ---
 
-## 🛠️ Informasi & Dokumentasi Workshop
+## Informasi & Dokumentasi Workshop
 
 ### 1. Informasi Kegiatan Workshop
 * **Judul Workshop:** Building with AI, Managing Change with GitHub
