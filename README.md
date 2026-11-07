@@ -7,8 +7,9 @@ Dokumentasi dan rangkuman pembelajaran dari kegiatan **Workshop Day 1: Building 
 ## 👤 Informasi Peserta
 
 * **Nama Lengkap:** Dimas Mukhlas Ibrahim
-* **Peran:** Student / Junior Developer
-* **Repository:** `git-journey` / `workshop-github-ai`
+* **Kelompok:** 07_Crazy_Taxi
+* **Program  Studi:** Teknik Multimedi dan Jaringan
+* **Instansi:** Politeknik Negeri Jakarta
 
 ---
 
